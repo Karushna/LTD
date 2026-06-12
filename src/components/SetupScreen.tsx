@@ -184,7 +184,6 @@ export default function SetupScreen({ onStart, error, isLoading }: Props) {
             </span>
           </button>
 
-          <p className="s-notice">🔒 Your API key never leaves your browser</p>
         </div>
       </div>
     </div>
